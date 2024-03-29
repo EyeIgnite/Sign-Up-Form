@@ -16,6 +16,10 @@ body {
 }
 
 .image-container {
-  width: 50%;
+  min-height: 100vh;
+  width: 40%;
   border: 1px solid black;
+  background-image: url(imgs/thierry-lemaitre-z_QBz0-JVZY-unsplash\ \(1\).jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
 }
