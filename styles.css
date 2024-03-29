@@ -14,3 +14,8 @@ body {
   font-family: title-font, sans-serif;
   font-size: 100px;
 }
+
+.image-container {
+  width: 50%;
+  border: 1px solid black;
+}
