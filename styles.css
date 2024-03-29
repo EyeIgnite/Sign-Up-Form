@@ -1,3 +1,8 @@
 body {
   font-family: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
+
+@font-face {
+  font-family: title-font;
+  src: url(fonts/Norse-Bold.otf);
+}
