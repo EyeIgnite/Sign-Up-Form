@@ -20,6 +20,6 @@ body {
   width: 40%;
   border: 1px solid black;
   background-image: url(imgs/thierry-lemaitre-z_QBz0-JVZY-unsplash\ \(1\).jpg);
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
 }
