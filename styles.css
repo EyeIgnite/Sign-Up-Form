@@ -6,3 +6,7 @@ body {
   font-family: title-font;
   src: url(fonts/Norse-Bold.otf);
 }
+
+.title {
+  font-family: title-font, sans-serif;
+}
